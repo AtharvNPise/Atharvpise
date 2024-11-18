@@ -1,0 +1,3 @@
+{"timestamp":2115974,"category":"browser.usage","name":"interaction","extra":{"widget_id":"tab-close-button","glean_timestamp":"1731903255809","flow_id":"{61f84d97-60e2-4de0-a116-7be448a8aa4b}","source":"tabs-bar"}}
+{"timestamp":2117983,"category":"browser.usage","name":"interaction","extra":{"flow_id":"{61f84d97-60e2-4de0-a116-7be448a8aa4b}","glean_timestamp":"1731903257818","source":"tabs-bar","widget_id":"tab-close-button"}}
+{"timestamp":2152637,"category":"browser.usage","name":"interaction","extra":{"source":"tabs-bar","widget_id":"cmd-closeWindow","glean_timestamp":"1731903292472","flow_id":"{61f84d97-60e2-4de0-a116-7be448a8aa4b}"}}

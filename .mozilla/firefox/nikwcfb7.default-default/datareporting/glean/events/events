@@ -1,0 +1,4 @@
+{"timestamp":1764353,"category":"webcompatreporting","name":"reason_dropdown","extra":{"glean_timestamp":"1731902904188","setting":"required"}}
+{"timestamp":1765301,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1731902905137"}}
+{"timestamp":1765642,"category":"addons_manager","name":"manage","extra":{"source":"system-addon","addon_type":"extension","glean_timestamp":"1731902905477","addon_id":"screenshots@mozilla.org","method":"disable"}}
+{"timestamp":1776323,"category":"urlbar","name":"engagement","extra":{"search_mode":"","groups":"heuristic","n_words":"1","search_engine_default_id":"google-b-e","results":"url","engagement_type":"enter","selected_result_subtype":"","interaction":"typed","provider":"HeuristicFallback","selected_position":"1","selected_result":"url","n_chars":"14","sap":"urlbar_newtab","n_results":"1","glean_timestamp":"1731902916158"}}
